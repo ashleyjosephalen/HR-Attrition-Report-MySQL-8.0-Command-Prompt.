@@ -1,4 +1,4 @@
-# HR-Attrition-Report-MySQL-8.0-Command-Prompt.
+# HR-Attrition-Report-MySQL-Workbench
 HR attrition analysis using SQL and Python with EDA and data-driven insights
 
 # HR Attrition Analysis
